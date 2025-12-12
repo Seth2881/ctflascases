@@ -1,7 +1,7 @@
 # README – Exercice de BruteForce `ctflascases`
 
 ## 🎯 Objectif
-Installer facilement un environnement local (Laragon) pour exécuter un site PHP et importer une base MySQL nommée **ctflascases** via HeidiSQL.
+Rentrer Dans le site nommé ctflascases
 
 ## BRUTE FORCE
 
